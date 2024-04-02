@@ -7,6 +7,8 @@
 
 # CSS
 
+*Cascading StyleSheet*
+
 # JavaScript
 - Anotações
     "=>" esse símbolo é chamado de arrow

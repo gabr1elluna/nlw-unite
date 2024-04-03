@@ -1,10 +1,3 @@
-/*const participante = {
-    nome: "Waldomiro",
-    email: "Wmiro@gmail.com",
-    dataInscricao: new Date(2024, 2, 22, 19, 20),
-    dataCheckIn:new Date(2024, 2, 25, 22, 0) 
-}
-*/
 let participantes = [
     {
         nome: "Waldomiro",
@@ -14,13 +7,13 @@ let participantes = [
     },
     {
         nome: "Antônio",
-        email: "antonioreidelas@gmail.com",
+        email: "antonio@gmail.com",
         dataInscricao: new Date(2024, 2, 1, 4, 13),
         dataCheckIn: new Date(2024, 2, 2, 15, 30)
     },
     {
         nome: "Renan",
-        email: "galeto@gmail.com",
+        email: "naner@gmail.com",
         dataInscricao: new Date(2024, 2, 12, 5, 29),
         dataCheckIn: new Date(2024, 2, 15, 14, 15) 
     },
@@ -44,7 +37,7 @@ let participantes = [
     },
     {
         nome: "Matheus",
-        email: "matheusgamerpro@gmail.com",
+        email: "matheusp@gmail.com",
         dataInscricao: new Date(2024, 2, 7, 7, 0),
         dataCheckIn: new Date(2024, 2, 14, 14, 0) 
     },
@@ -56,7 +49,7 @@ let participantes = [
     },
     {
         nome: "Kaike",
-        email: "kaikevascosubiu@gmail.com",
+        email: "kaikebiu@gmail.com",
         dataInscricao: new Date(2024, 2, 18, 3, 37),
         dataCheckIn: new Date(2024, 2, 25, 12, 30) 
     },

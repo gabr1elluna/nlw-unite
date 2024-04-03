@@ -2,15 +2,15 @@
 
 Aqui está o repositório do projeto que foi desenvolvido durante os 3 dias de aulas da NLW Unite, foi muito produtivo e didático.
 
-Esse foi um evento oferecido pela Rocketseat para desenvolver um projeto em diferentes linguagens. Dentre elas, havia as trilhas: 
-+ HTML, CSS e JavaScript (Trilha que escolhi)
-+ ReactJs
-+ React Native
-+ Node.Js
-+ Java
-+ Python
-+ C#
-+ DevOps
+Esse foi um evento oferecido pela **Rocketseat** para desenvolver um projeto em diferentes linguagens. Dentre elas, havia as trilhas: 
++ **HTML, CSS e JavaScript** (Trilha que escolhi)
++ **ReactJs**
++ **React Native**
++ **Node.Js**
++ **Java**
++ **Python**
++ **C#**
++ **DevOps**
 
 Veja abaixo uma preview do projeto.
 ---
